@@ -4,7 +4,7 @@ import (
 	"encoding/xml"
 	"os"
 
-	"devsrv/logger"
+	"github.com/brucewangzhihua/logger"
 )
 
 //Configuration 配置项
